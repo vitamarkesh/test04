@@ -1,0 +1,13 @@
+###
+
+# @no-cookie-jar
+POST http://localhost:8080/
+Content-Type: application/json;charset=UTF-8
+
+{
+  "timestamp": 123,
+  "user": "Adam",
+  "message": "ssssssss"
+}
+
+###
